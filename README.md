@@ -56,11 +56,15 @@ The analysis was carried out in a 140 m² multi-level house, where signal issues
 ---
 
 ## 📂 Repository Structure
-- `Relazione.pdf` – complete report in **Italian**
-- `images/` – heatmaps, floor plans, 3D renderings (if included)
-- *(optional)* `data/` – sample measurements or NetSpot exports
+```text
+Domestic-WiFi-Optimization/          
+  ├── Project/             
+  │   ├── pics/             # Here you can find some of the pics used in the relation
+  │   ├── Relazione-iT.pdf  # Relation written in italian
+  ├── LICENSE
+  ├── README.md
 
----
+```
 
 ## 📄 License
 This project is released under the **MIT License**.  
@@ -73,4 +77,3 @@ Feel free to reach out via GitHub for questions or clarifications.
 
 ---
 
-> *"Improving network performance at home with data, tools, and method."*
