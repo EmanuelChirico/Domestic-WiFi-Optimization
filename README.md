@@ -25,7 +25,7 @@ The analysis was carried out in a 140 m² multi-level house, where signal issues
 ---
 
 ## 🏠 Environment Description
-- House located in Prignano Cilento (SA), Italy
+- House located in Italy
 - Analysis limited to the main residential floor
 - Physical obstacles and neighboring Wi-Fi networks cause signal degradation
 - Includes 2D floor plans and 3D rendering for spatial visualization
@@ -63,7 +63,7 @@ The analysis was carried out in a 140 m² multi-level house, where signal issues
 ---
 
 ## 📄 License
-This project is released under the **MIT License** (or another license of your choice).  
+This project is released under the **MIT License**.  
 All images, diagrams, and data were created by the author.
 
 ---
