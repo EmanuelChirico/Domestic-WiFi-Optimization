@@ -1,18 +1,13 @@
 # Domestic Wi-Fi Optimization
 
-## 🎓 University Project
-This repository contains a project developed for the **"Cabled and Wireless Network Systems"** course at the **University of Salerno**, Academic Year 2024/2025.
+## 🛜 Introduction
+This repository contains a project developed for the **"Cabled and Wireless Network Systems"** course at the **University of Salerno**.
 
-Student: Emanuel Chirico  
-
-> ⚠️ **Note**: The full report and documentation are written in **Italian**.
-
----
 
 ## 📘 Project Overview
 This project focuses on the **analysis and optimization of a domestic Wi-Fi network**. The objective was to apply technical knowledge gained during the course to a real-world home environment in order to improve wireless performance and coverage.
 
-The analysis was carried out in a 140 m² multi-level house, where signal issues were present in some areas. After identifying critical zones and sources of interference, a Mesh-based Wi-Fi extension solution was designed and implemented.
+After identifying critical zones and sources of interference, a Mesh-based Wi-Fi extension solution was designed and implemented.
 
 ---
 
@@ -48,7 +43,7 @@ The analysis was carried out in a 140 m² multi-level house, where signal issues
 ---
 
 ## ✅ Key Results
-- Stronger signal coverage, especially in previously weak areas (e.g., bedrooms)
+- Stronger signal coverage, especially in previously weak areas.
 - Improved **Signal-to-Interference Ratio (SIR)** due to mesh amplification
 - Better signal distribution and reduced channel overlapping
 - Demonstrated effectiveness of mesh technology in constrained scenarios
